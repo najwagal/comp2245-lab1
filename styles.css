@@ -11,3 +11,15 @@ h2 {
 p {
     font-size: 18px;
 }
+
+.goals {
+    background-color: #f0f4f8;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.goals-heading {
+    color: #2b6cb0;
+    font-size: 20px;
+}
